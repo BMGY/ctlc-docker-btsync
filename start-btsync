@@ -16,7 +16,7 @@ echo "{
     \"shared_folders\": [
         {
             \"secret\": \"$SECRET\",
-            \"dir\": \"/data\",
+            \"dir\": \"/mnt/data\",
             \"use_relay_server\": true,
             \"use_tracker\": true,
             \"use_dht\": false,
